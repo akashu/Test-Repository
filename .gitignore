@@ -1,1 +1,3 @@
 NeedToIgnore/*
+new4/*
+!new4/.gitignore
